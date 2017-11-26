@@ -1,0 +1,14 @@
+{
+  "name": "soulofnonsa",
+  "version": "0.0.1",
+  "description": "SoulOfNonsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: test\" && exit 1"
+  },
+  "author": "tot_anarchist",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
